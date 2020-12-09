@@ -11,12 +11,12 @@ Competitive coding takes up most of my time. I am currently exploring the feild 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyaj&layout=compact&theme=radical)](https://github.com/dhairyaj/github-readme-stats) -->
 
-<a href="#">
+<!--<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dattaritapa&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Ritapa's Github stats" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattaritapa&layout=compact&theme=radical" />
-</a>
+</a>-->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages I have the most code on Github.*
 
